@@ -231,14 +231,9 @@ This project is open source and available under the [MIT License](LICENSE).
 - **Tailwind CSS** for utility-first styling
 - **Inter Font** for beautiful typography
 
-## 📞 Contact
-
-For questions or support:
-- **Email**: hello@pixxelhack.com
-- **Website**: [pixxelhack.com](https://pixxelhack.com)
-- **GitHub**: [@pixxelhack](https://github.com/pixxelhack)
 
 ---
 
 
 **PixxelHack** — Design. Develop. Disrupt. 🚀 
+
