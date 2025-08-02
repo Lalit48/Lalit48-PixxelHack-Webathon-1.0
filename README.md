@@ -4,7 +4,7 @@ A bold and immersive portfolio website for a fictional creative tech agency spec
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://pixxelhack-portfolio.netlify.app) *(Deploy to see it in action)*
+[View Live Demo](https://lalit48.github.io/Lalit48-PixxelHack-Webathon-1.0/) *(Deploy to see it in action)*
 
 ## ✨ Features
 
@@ -239,5 +239,6 @@ For questions or support:
 - **GitHub**: [@pixxelhack](https://github.com/pixxelhack)
 
 ---
+
 
 **PixxelHack** — Design. Develop. Disrupt. 🚀 
